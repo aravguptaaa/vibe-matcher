@@ -2,6 +2,7 @@
 
 An intelligent fashion recommendation engine that finds products based on a  *vibe* , not just keywords. This project uses local embedding models via Ollama and vector similarity search to provide a semantic, intuitive, and private-by-design search experience.
 Live Demo: 
+
 https://www.loom.com/share/dbe18fb588384adb9d6fcdb3c539c4e4
 
 ## ✨ Core Concept
